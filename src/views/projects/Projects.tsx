@@ -85,7 +85,7 @@ export default class Projects extends Vue {
       <div ref="projects" class={styles.projects}>
         <el-card class={styles.cardsWrapper}>
           <div slot="header">
-            <span class='span'>Sample projects</span>
+            <span class='span'>Cloud-BIM Demo</span>
           </div>
           {sampleProjectCards}
         </el-card>
