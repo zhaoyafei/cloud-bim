@@ -53,20 +53,6 @@
       "visible": true
     }]
   }, {
-    "id": "car",
-    "name": "car (FBX)",
-    "thumbnail": "projects/car/thumbnail.png",
-    "models": [{
-      "name": "car",
-      "src": "projects/car/car.fbx",
-      "position": [0, 0, 0],
-      "rotation": [-90, 0, 0],
-      "scale": [1, 1, 1],
-      "instantiate": false,
-      "merge": false,
-      "edges": false
-    }]
-  }, {
     "id": "Luxury_building",
     "name": "Luxury building (DAE)",
     "thumbnail": "projects/Luxury_building/thumbnail.png",
